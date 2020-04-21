@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/mher.davtyan/Desktop/ChatVapor2/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
